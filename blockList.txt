@@ -1,0 +1,7 @@
+[Adblock Plus 2.0]
+! Title: Tu avais tort
+! Expires: 1 days
+! Description: Tu avais tort
+!----------------------- Filtres génériques ----------------------!
+!
+||sdk.privacy-center.org*$domain=jeuxvideo.com
