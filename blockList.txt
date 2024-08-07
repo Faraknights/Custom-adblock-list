@@ -4,4 +4,4 @@
 ! Description: Tu avais tort
 !----------------------- Filtres génériques ----------------------!
 !
-||jeuxvideo.com^
+||sdk.privacy-center.org*$domain=jeuxvideo.com
